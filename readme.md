@@ -1,3 +1,5 @@
+![logo](https://raw.githubusercontent.com/uid100/AZ-204-DevelopingSolutionsforMicrosoftAzure/master/icon.webp)
+
 # AZ-204: Developing solutions for Microsoft Azure
 
 **All of the lab instructions were updated on 10/15/2021.** We will be closing all currently open issues and PRs and encourage everyone to review the new instructions and then submit new changes going forward.
